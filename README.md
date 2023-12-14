@@ -1,4 +1,4 @@
-<align=center> # Web-Internship
+# Web-Internship
 
 A website is created regarding Mysuru Dasara which showcases various events taking place during Dasara and also provides a registration form to register for the same.
 
